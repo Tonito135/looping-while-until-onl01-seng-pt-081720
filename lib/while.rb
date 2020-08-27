@@ -1,8 +1,8 @@
-def using_while
+def using_whilea(phrase = "Wingardium Leviosa")
   levitation_force = 6
 	while levitation_force < 10
-	  puts 
-  #your code here
+	  puts phrase
+  
 end
 
 
