@@ -1,4 +1,4 @@
-def using_until
+def using_until(phrase = "Wingardium Leviosa")
   levitation_force = 6
   
     
